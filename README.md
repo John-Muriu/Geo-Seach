@@ -1,2 +1,2 @@
 # Geo-Seach
-this is my geo seach tool
+This is my Geo Search tool
